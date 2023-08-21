@@ -7,6 +7,7 @@ package com.mycompany.sentencia;
 /**
  *
  * @author einva
+ el siguiente codigo utiliza el ciclo for
  */
 public class Sentencia {
 
