@@ -10,6 +10,7 @@ import java.util.Scanner;
 /**
  *
  * @author SirArthur
+ el siguiente codigo utiliza el ciclo do-while con el fin de realizar la tabla de multiplicar del numero deseado
  */
 public class multi {
     
