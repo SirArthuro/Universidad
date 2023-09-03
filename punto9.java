@@ -51,7 +51,7 @@ public class punto9 {
                 vtcc=(ca[i]+cb[i]+cc[i]+cd[i]);
                     for(i=3;i<ne;i++){
                      vtcd=(ca[i]+cb[i]+cc[i]+cd[i]);
-                        for(i=3;i<ne;i++){
+                        for(i=4;i<ne;i++){
                          vtce=(ca[i]+cb[i]+cc[i]+cd[i]);
                         }
                     }
